@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/chronic-kidney-disease-ckd-stage---primary.py
+inputModule3:
+  class: File
+  path: python/chronic-kidney-disease-ckd-proteinuria---primary.py
+inputModule4:
+  class: File
+  path: python/chronic-kidney-disease-ckd-transplant---primary.py
+inputModule5:
+  class: File
+  path: python/nephrotic-chronic-kidney-disease-ckd---primary.py
+inputModule6:
+  class: File
+  path: python/membranoproliferative-chronic-kidney-disease-ckd---primary.py
+inputModule7:
+  class: File
+  path: python/membranous-chronic-kidney-disease-ckd---primary.py
+inputModule8:
+  class: File
+  path: python/chronic-kidney-disease-ckd-glomerulonephritis---primary.py
+inputModule9:
+  class: File
+  path: python/chronic-kidney-disease-ckd-nephrosis---primary.py
+inputModule10:
+  class: File
+  path: python/glomerular-chronic-kidney-disease-ckd---primary.py
+inputModule11:
+  class: File
+  path: python/chronic-kidney-disease-ckd-lesion---primary.py
+inputModule12:
+  class: File
+  path: python/chronic-kidney-disease-ckd-diffuse---primary.py
+inputModule13:
+  class: File
+  path: python/proliferative-chronic-kidney-disease-ckd---primary.py
+inputModule14:
+  class: File
+  path: python/chronic-kidney-disease-ckd---primary.py
+inputModule15:
+  class: File
+  path: python/chronic-kidney-disease-ckd-pyelonephritis---primary.py
+inputModule16:
+  class: File
+  path: python/other-chronic-kidney-disease-ckd---primary.py
+inputModule17:
+  class: File
+  path: python/focal-chronic-kidney-disease-ckd---primary.py
+inputModule18:
+  class: File
+  path: python/chronic-kidney-disease-ckd-failure---primary.py
+inputModule19:
+  class: File
+  path: python/renal-chronic-kidney-disease-ckd---primary.py
+inputModule20:
+  class: File
+  path: python/chronic-kidney-disease-ckd-necrosis---primary.py
+inputModule21:
+  class: File
+  path: python/chronic-kidney-disease-ckd-blame---primary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
